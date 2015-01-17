@@ -1,2 +1,3 @@
 # pick-values
-Pick a set of values out of an object
+
+Pick an array of values out of an object.
